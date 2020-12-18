@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1606393956 source:/home/ubuntu/Desktop/new/lab_3/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606484296 source:/home/ubuntu/Desktop/new/lab_3/caltrain-runner.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+	<unistd.h>
+	<pthread.h>
+	"caltrain.h"
+
+1606838232 /home/ubuntu/Desktop/new/lab_3/caltrain.h
+	<pthread.h>
+
+1606845179 source:/home/ubuntu/Desktop/new/lab_3/caltrain.c
+	<pthread.h>
+	"caltrain.h"
+
